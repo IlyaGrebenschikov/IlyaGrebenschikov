@@ -33,28 +33,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=IlyaGrebenschikov&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=IlyaGrebenschikov&theme=github_dark&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaGrebenschikov&theme=github_dark&layout=compact&hide_border=true&count_private=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
