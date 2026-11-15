@@ -83,13 +83,3 @@ My areas of expertise include:
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Quartz.NET](https://img.shields.io/badge/Quartz.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
----
-
-<div align="center">
-
-**Let's connect!**
-
-[Telegram](https://t.me/ilya_gre) · [Email](mailto:ilushagr22@gmail.com)
-
-</div>
